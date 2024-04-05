@@ -23,7 +23,7 @@ A distribuição dos lucros do token TAP é feita de forma proporcional à quant
 Você pode trocar Sol por TAP através da Uniswap, onde nosso token está listado. Basta adicionar Sol ao pool de liquidez correspondente para receber TAP em troca, de acordo com a taxa de mercado atual.
 
 ### Como nos auditar?
-
+gggggg
 Nossa DAO e o protocolo são completamente transparentes e baseados em blockchain. Todos os contratos inteligentes e transações estão disponíveis publicamente para auditoria. Encorajamos a comunidade a revisar e auditar nossas operações para assegurar confiança e transparência.
 
 ### Como esse protocolo divide os lucros?

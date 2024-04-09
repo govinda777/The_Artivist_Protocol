@@ -120,3 +120,41 @@ mindmap
 
 ### 7. Observações Adicionais
 - Planos para colaborações e parcerias com organizações de arte e ativismo para ampliar o impacto social da DAO.
+
+## Resumo
+
+```mermaid
+graph LR
+    A[Artivist DAO: ArtivistCoin ARTV] --> B[Distribuição de Tokens]
+    B --> C[ICO]
+    B --> D[Airdrops para Membros Iniciais]
+    B --> E[Vesting de 4 Anos]
+    A --> F[Utilidade dos Tokens]
+    F --> G[Acesso a Eventos Exclusivos]
+    F --> H[Votação em Projetos]
+    F --> I[Financiamento de Projetos]
+    A --> J[Governança]
+    J --> K[Votação Baseada em Tokens]
+    K --> L[Sistema Proporcional de Votos]
+    A --> M[Aspectos Legais e Regulamentações]
+    M --> N[Conformidade com Regulamentos Internacionais]
+    A --> O[Tecnologia e Segurança]
+    O --> P[Blockchain Solana]
+    O --> Q[Auditorias e Parcerias de Segurança]
+    A --> R[Comunicação e Marketing]
+    R --> S[Parcerias com Influenciadores]
+    R --> T[Campanhas em Redes Sociais]
+    R --> U[Participação em Conferências]
+    A --> V[Feedback e Ajustes]
+    V --> W[Avaliação Contínua]
+    V --> X[Reuniões Trimestrais]
+
+    style A fill:#f9d342,stroke:#333,stroke-width:4px
+    style B fill:#e8e8e8,stroke:#333,stroke-width:2px
+    style F fill:#e8e8e8,stroke:#333,stroke-width:2px
+    style J fill:#e8e8e8,stroke:#333,stroke-width:2px
+    style M fill:#e8e8e8,stroke:#333,stroke-width:2px
+    style O fill:#e8e8e8,stroke:#333,stroke-width:2px
+    style R fill:#e8e8e8,stroke:#333,stroke-width:2px
+    style V fill:#e8e8e8,stroke:#333,stroke-width:2px
+```

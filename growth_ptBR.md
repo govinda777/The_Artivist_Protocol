@@ -3,75 +3,39 @@
 Este documento descreve a estratégia de crescimento e operação da Artivist DAO, incluindo detalhes sobre a visão geral do projeto, estratégia de tokens, utilidade dos tokens, governança, ferramentas por departamento, feedback e ajustes, e observações adicionais.
 
 ```mermaid
-graph TD
-    A[Artivist DAO]:::header --> B[Visão Geral]:::subheader
-    B --> B1[Nome: Artivist DAO]:::info
-    B --> B2[Objetivo: Integração entre Artistas e Ativistas]:::info
-    B --> B3[Plataforma: Solana]:::info
-
-    A --> C[Estratégia de Tokens]:::subheader
-    C --> C1[Nome do Token: ArtivistCoin ARTV]:::info
-    C --> C2[Tipo: Governance e Utility]:::info
-    C --> C3[Quantidade Total: 1.000.000 ARTV]:::info
-    C --> C4[Distribuição Inicial: 25%]:::info
-    C --> C5[Métodos de Distribuição: ICO, Airdrops]:::info
-    C --> C6[Modelo de Vesting: 4 anos, Cliff de 1 ano]:::info
-
-    A --> D[Utilidade dos Tokens]:::subheader
-    D --> D1[Acesso a Eventos Exclusivos]:::info
-    D --> D2[Votação em Projetos]:::info
-    D --> D3[Financiamento de Projetos]:::info
-
-    A --> E[Governança]:::subheader
-    E --> E1[Principais Ferramentas:]:::info
-    E --> E2[Votação baseada em Tokens]:::info
-    E --> E3[Sistema Proporcional de Votos]:::info
-    E --> E4[Snapshot para Votações]:::info
-    E --> E5[Aragon para Gestão DAO]:::info
-    E --> E6[Boardroom para Governança DeFi]:::info
-    E --> E7[DAOhaus para Colaboração]:::info
-
-    A --> F[Departamentos e Ferramentas]:::subheader
-    F --> F1[Legal e Regulamentações]:::subheader2
-    F1 --> F1A[Conformidade com Regulamentos]:::info
-    F1 --> F1B[Consultoria Legal]:::info
-    F --> F2[Tecnologia e Segurança]:::subheader2
-    F2 --> F2A[Blockchain Solana]:::info
-    F2 --> F2B[OpenZeppelin para Contratos]:::info
-    F2 --> F2C[Chainalysis para Análises]:::info
-    F2 --> F2D[Halborn Security para Auditorias]:::info
-    F --> F3[Comunicação e Marketing]:::subheader2
-    F3 --> F3A[Parcerias com Influenciadores]:::info
-    F3 --> F3B[Campanhas em Redes Sociais]:::info
-    F3 --> F3C[Participação em Conferências]:::info
-    F3 --> F3D[Discord para Comunicação Interna]:::info
-    F3 --> F3E[Mailchimp para Newsletters]:::info
-    F3 --> F3F[Hootsuite para Gestão de Redes Sociais]:::info
-    F --> F4[Financeiro]:::subheader2
-    F4 --> F4A[QuickBooks para Contabilidade]:::info
-    F4 --> F4B[Coinbase para Gestão de Criptomoedas]:::info
-    F4 --> F4C[Gnosis Safe para Tesouraria]:::info
-    F4 --> F4D[Defi Pulse para Monitoramento]:::info
-    F --> F5[Auditoria]:::subheader2
-    F5 --> F5A[Smart Contract Auditorias]:::info
-    F5 --> F5B[Certik para Segurança]:::info
-    F5 --> F5C[Quantstamp para Verificação]:::info
-    F --> F6[Certificação]:::subheader2
-    F6 --> F6A[Certificação de Projetos e Artistas]:::info
-    F6 --> F6B[Dapper Labs para NFTs]:::info
-    F6 --> F6C[Verisart para Certificação Digital]:::info
-
-    A --> G[Feedback e Ajustes]:::subheader
-    G --> G1[Avaliação Contínua]:::info
-    G --> G2[Reuniões Trimestrais]:::info
-
-    A --> H[Observações Adicionais]:::subheader
-    H --> H1[Colaborações e Parcerias para Impacto Social]:::info
-
-    classDef header fill:#f9d342,stroke:#333,stroke-width:4px;
-    classDef subheader fill:#f4b400,stroke:#333,stroke-width:3px;
-    classDef subheader2 fill:#f4a460,stroke:#333,stroke-width:3px;
-    classDef info fill:#e8e8e8,stroke:#333,stroke-width:2px;
+mindmap
+  A((Artivist DAO))
+    B[Visão Geral]
+      B1>Nome: Artivist DAO]
+      B2>Objetivo: Integração entre Artistas e Ativistas]
+      B3>Plataforma: Solana]
+    C[Estratégia de Tokens]
+      C1>Nome do Token: ArtivistCoin ARTV]
+      C2>Tipo: Governance e Utility]
+      C3>Quantidade Total: 1.000.000 ARTV]
+      C4>Distribuição Inicial: 25%]
+      C5>Métodos de Distribuição: ICO, Airdrops]
+      C6>Modelo de Vesting: 4 anos, Cliff de 1 ano]
+    D[Utilidade dos Tokens]
+      D1>Acesso a Eventos Exclusivos]
+      D2>Votação em Projetos]
+      D3>Financiamento de Projetos]
+    E[Governança]
+      E1>Principais Ferramentas: Snapshot, Aragon, Boardroom, DAOhaus]
+      E2>Votação baseada em Tokens]
+      E3>Sistema Proporcional de Votos]
+    F[Departamentos e Ferramentas]
+      F1>Legal e Regulamentações]
+      F2>Tecnologia e Segurança]
+      F3>Comunicação e Marketing]
+      F4>Financeiro]
+      F5>Auditoria]
+      F6>Certificação]
+    G[Feedback e Ajustes]
+      G1>Avaliação Contínua]
+      G2>Reuniões Trimestrais]
+    H[Observações Adicionais]
+      H1>Colaborações e Parcerias para Impacto Social]
 
 ```
 
